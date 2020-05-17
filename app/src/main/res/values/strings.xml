@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PopularMovies1</string>
+    <string name="action_settings">Sort By</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="release_date">Release Date</string>
+    <string name="user_ratings">User Ratings</string>
+    <string name="title_activity_favorites">Favorites</string>
+    <string name="review">Review</string>
+</resources>
